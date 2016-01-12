@@ -1,4 +1,4 @@
-package com.mishra.techie.seleniumTest;
+package mishra.techie;
 
 import java.util.concurrent.TimeUnit;
 
